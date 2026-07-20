@@ -21,7 +21,6 @@ Colombian Air Force captain (UH-60 Black Hawk copilot / UH-1 pilot) transitionin
 #### 🚀 What I'm working on
 
 - 🏋️ **[rehab-strength](https://github.com/POLUX89/rehab-strength)** — Streamlit health-analytics dashboard (workouts · sleep · recovery), with a full data pipeline, statistical testing and CI. **[Live app »](https://rehab-strength.streamlit.app)**
-- 🤖 **[gym-ml-performance](https://github.com/POLUX89/gym-ml-performance)** — applied ML to predict top-set e1RM from training data.
 - 🏦 **Mortgage credit risk** — default-risk modeling on synthetic lending data *(in progress)*.
 - 🛰️ **GNSS forecasting** — time-series thesis project *(upcoming)*.
 
