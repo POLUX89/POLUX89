@@ -38,8 +38,6 @@ Colombian Air Force captain (UH-60 Black Hawk copilot / UH-1 pilot) transitionin
 ---
 
 <sub>From flight plans to data pipelines — precision, discipline and clear communication.</sub>
-
-<!--
 **POLUX89/POLUX89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
