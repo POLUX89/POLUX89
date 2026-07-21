@@ -42,3 +42,7 @@ Colombian Air Force captain (UH-60 Black Hawk copilot / UH-1 pilot) transitionin
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-web_scraping-43B02A?style=flat)
 
 ---
+
+<div align="center">
+<sub>From flight plans to data pipelines — precision, discipline and clear communication.</sub>
+</div>
