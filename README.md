@@ -6,6 +6,8 @@
 
 MSc Data Science candidate · Python · Machine Learning · Streamlit
 
+🌎 Spanish (native) · English (professional)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-felipe-sacristán-ávila-b82aa61ab)
 [![Live App](https://img.shields.io/badge/Live_App-rehab--strength-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://rehab-strength.streamlit.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sacristandanielfelipe@gmail.com)
