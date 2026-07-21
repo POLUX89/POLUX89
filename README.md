@@ -28,7 +28,7 @@ Colombian Air Force captain (UH-60 Black Hawk copilot / UH-1 pilot) transitionin
 - 🏦 **Mortgage credit risk** — default-risk modeling on synthetic lending data *(upcoming)*.
 - 🛰️ **GNSS forecasting** — time-series thesis project *(upcoming)*.
 
-📂 Full index → **[Data Science Portfolio](https://github.com/POLUX89/Daniel-Sacristan-DataScience-portfolio)**
+📂 Full index → **[Data Science Portfolio](https://polux89.github.io/Daniel-Sacristan-DataScience-portfolio/)**
 
 #### 🛠️ Tech & Tools
 
