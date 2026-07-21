@@ -20,9 +20,9 @@ Colombian Air Force captain (UH-60 Black Hawk copilot / UH-1 pilot) transitionin
 
 #### 🚀 What I'm working on
 
-- 🏋️ **[rehab-strength](https://github.com/POLUX89/rehab-strength)** — Streamlit health-analytics dashboard (workouts · sleep · recovery), with a full data pipeline, statistical testing and CI. **[Live app »](https://rehab-strength.streamlit.app)**
-- 📰 **[NLP-Fake-News-Colombia](https://github.com/POLUX89/NLP-Fake-News-Colombia)** — Spanish NLP classifying news verdicts (true / false / uncertain) from Colombian fact-checks. Web-scraped dataset, **BETO** fine-tuning, and responsible-ML docs: model card, datasheet & data statement. *(in progress)*
-- 🏦 **Mortgage credit risk** — default-risk modeling on synthetic lending data *(upcoming)*
+- 🏋️ **[rehab-strength](https://github.com/POLUX89/rehab-strength)** — Streamlit health-analytics dashboard (workouts · sleep · recovery), with a full data pipeline, statistical testing and CI. **[Live app »](https://rehab-strength.streamlit.app)**.
+- 📰 **[NLP-Fake-News-Colombia](https://github.com/POLUX89/NLP-Fake-News-Colombia)** — Spanish NLP classifying news verdicts (true / false / uncertain) from Colombian fact-checks. Web-scraped dataset, **BETO** fine-tuning, and responsible-ML docs: model card, datasheet & data statement. *(in progress)*.
+- 🏦 **Mortgage credit risk** — default-risk modeling on synthetic lending data *(upcoming)*.
 - 🛰️ **GNSS forecasting** — time-series thesis project *(upcoming)*.
 
 📂 Full index → **[Data Science Portfolio](https://github.com/POLUX89/Daniel-Sacristan-DataScience-portfolio)**
@@ -40,4 +40,5 @@ Colombian Air Force captain (UH-60 Black Hawk copilot / UH-1 pilot) transitionin
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97_Transformers-FFD21E?style=flat)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-web_scraping-43B02A?style=flat)
+
 ---
