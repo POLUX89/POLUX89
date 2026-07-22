@@ -11,6 +11,7 @@ MSc Data Science candidate · Python · Machine Learning · Streamlit
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-2ea44f?style=flat&logo=githubpages&logoColor=white)](https://polux89.github.io/Daniel-Sacristan-DataScience-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-felipe-sacristán-ávila-b82aa61ab)
 [![Live App](https://img.shields.io/badge/Live_App-rehab--strength-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://rehab-strength.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-BETO_ColombiaCheck-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://beto-colombiacheck.streamlit.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sacristandanielfelipe@gmail.com)
 
 </div>
@@ -24,7 +25,7 @@ Colombian Air Force captain (UH-60 Black Hawk copilot / UH-1 pilot) transitionin
 #### 🚀 What I'm working on
 
 - 🏋️ **[rehab-strength](https://github.com/POLUX89/rehab-strength)** — Streamlit health-analytics dashboard (workouts · sleep · recovery), with a full data pipeline, statistical testing and CI. **[Live app »](https://rehab-strength.streamlit.app)**.
-- 📰 **[NLP-Fake-News-Colombia](https://github.com/POLUX89/NLP-Fake-News-Colombia)** — Spanish NLP classifying news verdicts (true / false / uncertain) from Colombian fact-checks. Web-scraped dataset, **BETO** fine-tuning, and responsible-ML docs: model card, datasheet & data statement. *(in progress)*.
+- 📰 **[NLP-Fake-News-Colombia](https://github.com/POLUX89/NLP-Fake-News-Colombia)** — Spanish NLP classifying news verdicts (true / false / uncertain) from Colombian fact-checks. Web-scraped dataset, **BETO** fine-tuning, and responsible-ML docs: model card, datasheet & data statement. **[Live demo »](https://beto-colombiacheck.streamlit.app/)** *(in progress)*.
 - 🏦 **Mortgage credit risk** — default-risk modeling on synthetic lending data *(upcoming)*.
 - 🛰️ **GNSS forecasting** — time-series thesis project *(upcoming)*.
 
