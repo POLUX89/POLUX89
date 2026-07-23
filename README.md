@@ -25,7 +25,7 @@ Colombian Air Force captain (UH-60 Black Hawk copilot / UH-1 pilot) transitionin
 #### 🚀 What I'm working on
 
 - 🏋️ **[rehab-strength](https://github.com/POLUX89/rehab-strength)** — Streamlit health-analytics dashboard (workouts · sleep · recovery), with a full data pipeline, statistical testing and CI. **[Live app »](https://rehab-strength.streamlit.app)**.
-- 📰 **[NLP-Fake-News-Colombia](https://github.com/POLUX89/NLP-Fake-News-Colombia)** — Spanish NLP classifying news verdicts (true / false / uncertain) from Colombian fact-checks. Web-scraped dataset, **BETO** fine-tuning, and responsible-ML docs: model card, datasheet & data statement. **[Live demo »](https://beto-colombiacheck.streamlit.app/)** *(in progress)*.
+- 📰 **[NLP-Fake-News-Colombia](https://github.com/POLUX89/NLP-Fake-News-Colombia)** — Spanish NLP classifying news verdicts (true / false / uncertain) from Colombian fact-checks. Web-scraped dataset, **BETO** fine-tuning, and responsible-ML docs: model card, datasheet & data statement. **[Live demo »](https://beto-colombiacheck.streamlit.app/)**.
 - 🏦 **Mortgage credit risk** — default-risk modeling on synthetic lending data *(upcoming)*.
 - 🛰️ **GNSS forecasting** — time-series thesis project *(upcoming)*.
 
