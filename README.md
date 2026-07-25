@@ -9,10 +9,8 @@ MSc Data Science candidate · Python · Machine Learning · Streamlit
 🌎 Spanish (native) · English (B2 · professional working proficiency)
 
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-2ea44f?style=flat&logo=githubpages&logoColor=white)](https://polux89.github.io/Daniel-Sacristan-DataScience-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-felipe-sacristán-ávila-b82aa61ab)
 [![Live App](https://img.shields.io/badge/Live_App-rehab--strength-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://rehab-strength.streamlit.app)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-BETO_ColombiaCheck-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://beto-colombiacheck.streamlit.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sacristandanielfelipe@gmail.com)
 
 </div>
 
@@ -21,6 +19,10 @@ MSc Data Science candidate · Python · Machine Learning · Streamlit
 #### 🎯 About me
 
 Colombian Air Force captain (UH-60 Black Hawk copilot / UH-1 pilot) transitioning into **data science**. I discovered data while recovering from a stroke — building dashboards to track my own rehabilitation — and turned it into a career path. I bring cockpit discipline to data work: reproducible pipelines, statistical rigor, and clear communication.
+
+📫 **Let's connect:**
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daniel-felipe-sacristán-ávila-b82aa61ab)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sacristandanielfelipe@gmail.com)
 
 #### 🚀 What I'm working on
 
@@ -55,6 +57,7 @@ Colombian Air Force captain (UH-60 Black Hawk copilot / UH-1 pilot) transitionin
 #### 🎛️ STATS
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=POLUX89&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api?username=POLUX89&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&theme=highcontrast)
+
 ---
 
 <div align="center">
