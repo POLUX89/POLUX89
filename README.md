@@ -55,7 +55,7 @@ Colombian Air Force captain (UH-60 Black Hawk copilot / UH-1 pilot) transitionin
 
 ### 🎛️ Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=POLUX89&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api?username=POLUX89&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&theme=highcontrast)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=POLUX89&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&theme=great-gatsby)](https://github-stats-extended.vercel.app/api?username=POLUX89&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&theme=great-gatsby)
 
 ---
 
