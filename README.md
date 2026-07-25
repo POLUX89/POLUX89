@@ -1,10 +1,8 @@
 <div align="center">
 
-### Hi, I'm Daniel Sacristán 👋🚁 
+<img src="./assets/banner.svg" alt="Daniel Felipe Sacristán Ávila — Helicopter Pilot to Data Scientist" width="100%">
 
-**Helicopter pilot in the Colombian Air Force → Data Scientist**
-
-MSc Data Science candidate · Python · Machine Learning · Streamlit
+**MSc Data Science candidate · Esp. Machine Learning**
 
 🌎 Spanish (native) · English (B2 · professional working proficiency) 
 
