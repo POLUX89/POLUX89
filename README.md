@@ -36,9 +36,11 @@ Colombian Air Force captain (UH-60 Black Hawk copilot / UH-1 pilot) transitionin
 | ⚡ | **Forecast-Energy-StockChange-Colombia** | Forecasting Colombia's hourly wholesale electricity spot price (*precio de bolsa*) from public SIMEM/XM data — self-updating ingestion pipeline on GitHub Actions | `Python` `Time series` `GitHub Actions` | ![](https://img.shields.io/badge/in_progress-8a6100?style=flat) | [Repo](https://github.com/POLUX89/Forecast-Energy-StockChange-Colombia) |
 | 🏦 | **Mortgage credit risk** | Default-risk modeling on synthetic mortgage lending data — data generation, training and evaluation | `Python` `scikit-learn` | ![](https://img.shields.io/badge/upcoming-55636f?style=flat) | — |
 
-#### 🛠️ Tech & Tools
+### 🛠️ Tech & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
@@ -48,12 +50,6 @@ Colombian Air Force captain (UH-60 Black Hawk copilot / UH-1 pilot) transitionin
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97_Transformers-FFD21E?style=flat)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-web_scraping-43B02A?style=flat)
-
----
-
-### 🏅 Skills 
-
-[![My Skills](https://skillicons.dev/icons?i=py,vscode,git,github,notion&perline=5)](https://skillicons.dev)
 
 ---
 
