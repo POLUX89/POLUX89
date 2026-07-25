@@ -38,13 +38,23 @@ Colombian Air Force captain (UH-60 Black Hawk copilot / UH-1 pilot) transitionin
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97_Transformers-FFD21E?style=flat)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-web_scraping-43B02A?style=flat)
 
+---
+
+### 🏅 Skills 
+
+[![My Skills](https://skillicons.dev/icons?i=py,vscode,git,github,notion&perline=5)](https://skillicons.dev)
+
+---
+
+#### 🎛️ STATS
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=POLUX89&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api?username=POLUX89&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&theme=highcontrast)
 ---
 
 <div align="center">
