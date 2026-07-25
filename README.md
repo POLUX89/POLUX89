@@ -1,12 +1,12 @@
 <div align="center">
 
-### Hi, I'm Daniel 👋🚁
+### Hi, I'm Daniel 👋🚁 
 
 **Helicopter pilot in the Colombian Air Force → Data Scientist**
 
 MSc Data Science candidate · Python · Machine Learning · Streamlit
 
-🌎 Spanish (native) · English (B2 · professional working proficiency)
+🌎 Spanish (native) · English (B2 · professional working proficiency) . 📫 **Let's connect:** <a href="https://www.linkedin.com/in/daniel-felipe-sacristán-ávila-b82aa61ab"><img src="https://skillicons.dev/icons?i=linkedin" height="22"></a> <a href="mailto:sacristandanielfelipe@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="22"></a>
 
 [![Live App](https://img.shields.io/badge/Live_App-rehab--strength-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://rehab-strength.streamlit.app)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-BETO_ColombiaCheck-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://beto-colombiacheck.streamlit.app/)
@@ -25,13 +25,11 @@ MSc Data Science candidate · Python · Machine Learning · Streamlit
 
 </div>
 
----
 
 #### 🎯 About me
 
 Colombian Air Force captain (UH-60 Black Hawk copilot / UH-1 pilot) transitioning into **data science**. I discovered data while recovering from a stroke — building dashboards to track my own rehabilitation — and turned it into a career path. I bring cockpit discipline to data work: reproducible pipelines, statistical rigor, and clear communication.
 
-📫 **Let's connect:** <a href="https://www.linkedin.com/in/daniel-felipe-sacristán-ávila-b82aa61ab"><img src="https://skillicons.dev/icons?i=linkedin" height="22"></a> <a href="mailto:sacristandanielfelipe@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="22"></a>
 
 #### 🚀 What I'm working on
 
@@ -42,7 +40,7 @@ Colombian Air Force captain (UH-60 Black Hawk copilot / UH-1 pilot) transitionin
 | ⚡ | **Forecast-Energy-StockChange-Colombia** | Forecasting Colombia's hourly wholesale electricity spot price (*precio de bolsa*) from public SIMEM/XM data — self-updating ingestion pipeline on GitHub Actions | `Python` `Time series` `GitHub Actions` | ![](https://img.shields.io/badge/in_progress-8a6100?style=flat) | [Repo](https://github.com/POLUX89/Forecast-Energy-StockChange-Colombia) |
 | 🏦 | **Mortgage credit risk** | Default-risk modeling on synthetic mortgage lending data — data generation, training and evaluation | `Python` `scikit-learn` | ![](https://img.shields.io/badge/upcoming-55636f?style=flat) | — |
 
-#### 🛠️ Tech & Tools
+#### 🛠️ Tech & Tools Used
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
