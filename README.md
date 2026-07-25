@@ -21,6 +21,7 @@ MSc Data Science candidate · Python · Machine Learning · Streamlit
 Colombian Air Force captain (UH-60 Black Hawk copilot / UH-1 pilot) transitioning into **data science**. I discovered data while recovering from a stroke — building dashboards to track my own rehabilitation — and turned it into a career path. I bring cockpit discipline to data work: reproducible pipelines, statistical rigor, and clear communication.
 
 📫 **Let's connect:**
+
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daniel-felipe-sacristán-ávila-b82aa61ab)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sacristandanielfelipe@gmail.com)
 
