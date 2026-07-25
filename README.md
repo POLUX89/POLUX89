@@ -8,9 +8,20 @@ MSc Data Science candidate · Python · Machine Learning · Streamlit
 
 🌎 Spanish (native) · English (B2 · professional working proficiency)
 
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-2ea44f?style=flat&logo=githubpages&logoColor=white)](https://polux89.github.io/Daniel-Sacristan-DataScience-portfolio/)
 [![Live App](https://img.shields.io/badge/Live_App-rehab--strength-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://rehab-strength.streamlit.app)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-BETO_ColombiaCheck-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://beto-colombiacheck.streamlit.app/)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌐 My Portfolio
+
+**Every project, live demos and case studies in one place**
+
+[![Visit my portfolio](https://img.shields.io/badge/Visit_my_portfolio-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://polux89.github.io/Daniel-Sacristan-DataScience-portfolio/)
 
 </div>
 
@@ -30,8 +41,6 @@ Colombian Air Force captain (UH-60 Black Hawk copilot / UH-1 pilot) transitionin
 | 📰 | **NLP-Fake-News-Colombia** | Spanish NLP classifying news verdicts (true / false / uncertain) from Colombian fact-checks — web-scraped dataset, BETO fine-tuning, model card · datasheet · data statement | `Transformers` `BETO` `Streamlit` | ![](https://img.shields.io/badge/live-2ea44f?style=flat) | **[Live demo »](https://beto-colombiacheck.streamlit.app/)** · [Repo](https://github.com/POLUX89/NLP-Fake-News-Colombia) |
 | ⚡ | **Forecast-Energy-StockChange-Colombia** | Forecasting Colombia's hourly wholesale electricity spot price (*precio de bolsa*) from public SIMEM/XM data — self-updating ingestion pipeline on GitHub Actions | `Python` `Time series` `GitHub Actions` | ![](https://img.shields.io/badge/in_progress-8a6100?style=flat) | [Repo](https://github.com/POLUX89/Forecast-Energy-StockChange-Colombia) |
 | 🏦 | **Mortgage credit risk** | Default-risk modeling on synthetic mortgage lending data — data generation, training and evaluation | `Python` `scikit-learn` | ![](https://img.shields.io/badge/upcoming-55636f?style=flat) | — |
-
-📂 Full index → **[Data Science Portfolio](https://polux89.github.io/Daniel-Sacristan-DataScience-portfolio/)**
 
 #### 🛠️ Tech & Tools
 
