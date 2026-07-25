@@ -6,7 +6,7 @@
 
 MSc Data Science candidate · Python · Machine Learning · Streamlit
 
-🌎 Spanish (native) · English (B2 · professional working proficiency) · 📫 Let's connect: <a href="https://www.linkedin.com/in/daniel-felipe-sacristán-ávila-b82aa61ab"><img src="https://skillicons.dev/icons?i=linkedin" height="22"></a> <a href="mailto:sacristandanielfelipe@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="22"></a>
+🌎 Spanish (native) · English (B2 · professional working proficiency) 
 
 [![Live App](https://img.shields.io/badge/Live_App-rehab--strength-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://rehab-strength.streamlit.app)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-BETO_ColombiaCheck-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://beto-colombiacheck.streamlit.app/)
@@ -19,14 +19,12 @@ MSc Data Science candidate · Python · Machine Learning · Streamlit
 
 ### 🌐 My Portfolio
 
-**Every project, live demos and case studies in one place**
-
-[![Visit my portfolio](https://img.shields.io/badge/Visit_my_portfolio-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://polux89.github.io/Daniel-Sacristan-DataScience-portfolio/)
-
+[![Visit my portfolio](https://img.shields.io/badge/Visit_my_portfolio-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://polux89.github.io/Daniel-Sacristan-DataScience-portfolio/) 
 </div>
 
 
-### 🎯 About me
+### 🎯 About me · 📫 Let's connect: <a href="https://www.linkedin.com/in/daniel-felipe-sacristán-ávila-b82aa61ab"><img src="https://skillicons.dev/icons?i=linkedin" height="22"></a> <a href="mailto:sacristandanielfelipe@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="22"></a>
+
 
 Colombian Air Force captain (UH-60 Black Hawk copilot / UH-1 pilot) transitioning into **data science**. I discovered data while recovering from a stroke — building dashboards to track my own rehabilitation — and turned it into a career path. I bring cockpit discipline to data work: reproducible pipelines, statistical rigor, and clear communication.
 
