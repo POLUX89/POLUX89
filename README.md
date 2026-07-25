@@ -24,10 +24,12 @@ Colombian Air Force captain (UH-60 Black Hawk copilot / UH-1 pilot) transitionin
 
 #### 🚀 What I'm working on
 
-- 🏋️ **[rehab-strength](https://github.com/POLUX89/rehab-strength)** — Streamlit health-analytics dashboard (workouts · sleep · recovery), with a full data pipeline, statistical testing and CI. **[Live app »](https://rehab-strength.streamlit.app)**.
-- 📰 **[NLP-Fake-News-Colombia](https://github.com/POLUX89/NLP-Fake-News-Colombia)** — Spanish NLP classifying news verdicts (true / false / uncertain) from Colombian fact-checks. Web-scraped dataset, **BETO** fine-tuning, and responsible-ML docs: model card, datasheet & data statement. **[Live demo »](https://beto-colombiacheck.streamlit.app/)**.
-- 🏦 **Mortgage credit risk** — default-risk modeling on synthetic lending data *(upcoming)*.
-- 🛰️ **GNSS forecasting** — time-series thesis project *(upcoming)*.
+| | Project | What it does | Stack | Status | Links |
+|:--:|---|---|---|:--:|---|
+| 🏋️ | **rehab-strength** | Health-analytics dashboard tracking workouts, sleep & recovery after a stroke — full data pipeline, statistical testing and CI | `Python` `Streamlit` `Pandas` | ![](https://img.shields.io/badge/live-2ea44f?style=flat) | **[Live app »](https://rehab-strength.streamlit.app)** · [Repo](https://github.com/POLUX89/rehab-strength) |
+| 📰 | **NLP-Fake-News-Colombia** | Spanish NLP classifying news verdicts (true / false / uncertain) from Colombian fact-checks — web-scraped dataset, BETO fine-tuning, model card · datasheet · data statement | `Transformers` `BETO` `Streamlit` | ![](https://img.shields.io/badge/live-2ea44f?style=flat) | **[Live demo »](https://beto-colombiacheck.streamlit.app/)** · [Repo](https://github.com/POLUX89/NLP-Fake-News-Colombia) |
+| 🏦 | **Mortgage credit risk** | Default-risk modeling on synthetic mortgage lending data — data generation, training and evaluation | `Python` `scikit-learn` | ![](https://img.shields.io/badge/upcoming-8a6100?style=flat) | — |
+| 🛰️ | **GNSS forecasting** | Time-series forecasting of GNSS signals — MSc thesis project | `Python` `Time series` | ![](https://img.shields.io/badge/thesis-55636f?style=flat) | — |
 
 📂 Full index → **[Data Science Portfolio](https://polux89.github.io/Daniel-Sacristan-DataScience-portfolio/)**
 
