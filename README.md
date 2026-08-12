@@ -8,6 +8,7 @@
 
 [![Live App](https://img.shields.io/badge/Live_App-rehab--strength-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://rehab-strength.streamlit.app)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-BETO_ColombiaCheck-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://beto-colombiacheck.streamlit.app/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97_Hub-beto--colombiacheck-FFD21E?style=flat)](https://huggingface.co/polux89/beto-colombiacheck)
 
 </div>
 
@@ -32,7 +33,7 @@ Colombian Air Force captain (UH-60 Black Hawk copilot / UH-1 pilot) transitionin
 | | Project | What it does | Stack | Status | Links |
 |:--:|---|---|---|:--:|---|
 | 🏋️ | **rehab-strength** | Health-analytics dashboard tracking workouts, sleep & recovery after a stroke — full data pipeline, statistical testing and CI | `Python` `Streamlit` `Pandas` | ![](https://img.shields.io/badge/live-2ea44f?style=flat) | **[Live app »](https://rehab-strength.streamlit.app)** · [Repo](https://github.com/POLUX89/rehab-strength) |
-| 📰 | **NLP-Fake-News-Colombia** | Spanish NLP classifying news verdicts (true / false / uncertain) from Colombian fact-checks — web-scraped dataset, BETO fine-tuning, model card · datasheet · data statement | `Transformers` `BETO` `Streamlit` | ![](https://img.shields.io/badge/live-2ea44f?style=flat) | **[Live demo »](https://beto-colombiacheck.streamlit.app/)** · [Repo](https://github.com/POLUX89/NLP-Fake-News-Colombia) |
+| 📰 | **NLP-Fake-News-Colombia** | Spanish NLP classifying news verdicts (true / false / uncertain) from Colombian fact-checks — web-scraped dataset, BETO fine-tuning, model card · datasheet · data statement | `Transformers` `BETO` `Streamlit` | ![](https://img.shields.io/badge/live-2ea44f?style=flat) | **[Live demo »](https://beto-colombiacheck.streamlit.app/)** · [🤗 Model](https://huggingface.co/polux89/beto-colombiacheck) · [Repo](https://github.com/POLUX89/NLP-Fake-News-Colombia) |
 | ⚡ | **Forecast-Energy-StockChange-Colombia** | Forecasting Colombia's hourly wholesale electricity spot price (*precio de bolsa*) from public SIMEM/XM data — self-updating ingestion pipeline on GitHub Actions | `Python` `Time series` `GitHub Actions` | ![](https://img.shields.io/badge/in_progress-8a6100?style=flat) | [Repo](https://github.com/POLUX89/Forecast-Energy-StockChange-Colombia) |
 | 🚁 | **ASRS Rotorcraft NLP** | **MSc thesis** — taxonomic coverage of NASA ASRS incident narratives in rotorcraft operations. Domain expertise from 1500+ flight hours applied to model auditing and disaggregated evaluation | `Python` `NLP` `Transformers` | ![](https://img.shields.io/badge/thesis-8957e5?style=flat) | *private until defense* |
 
